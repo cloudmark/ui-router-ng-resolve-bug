@@ -10,7 +10,8 @@ import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
 // The app module
 import { AppModule } from './app.module';
-
+// import {trace} from "ui-router-ng2"; // or "angular-ui-router"
+// trace.enable(0,1,2,3,4);
 if (String('<%= BUILD_TYPE %>') === 'prod') { enableProdMode(); }
 
 // Compile and launch the module with i18n providers

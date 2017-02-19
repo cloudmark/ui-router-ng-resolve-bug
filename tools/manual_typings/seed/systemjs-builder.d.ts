@@ -8,3 +8,4 @@ declare module 'systemjs-builder' {
   module Builder {}
   export = Builder;
 }
+/**/

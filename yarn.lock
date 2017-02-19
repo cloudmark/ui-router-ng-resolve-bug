@@ -42,10 +42,6 @@
   dependencies:
     parse5 "^2.2.1"
 
-"@angular/router@~3.4.1":
-  version "3.4.2"
-  resolved "https://registry.yarnpkg.com/@angular/router/-/router-3.4.2.tgz#aa787bdbb73a5436e0d0d40d2924d41249541b68"
-
 "@angular/tsc-wrapped@0.5.1":
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/@angular/tsc-wrapped/-/tsc-wrapped-0.5.1.tgz#7a69bec999eef41903dddaaccdc862cfcface52c"
